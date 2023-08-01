@@ -1,4 +1,4 @@
-# wordpress-core-file-replay-bash-script
+# WordPress Core file replace automatically using bash script.
 You can replace your WordPress core file using this bash script
 
 To use the script follow the steps below:
