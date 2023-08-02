@@ -40,4 +40,4 @@ cd ..
 # Remove the empty 'wordpress' directory
 rm -rf wordpress
 
-echo "Task completed successfully."
+echo "Hello Sir! WordPress Core File Replaced Successfully."
